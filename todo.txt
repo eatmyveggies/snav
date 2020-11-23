@@ -1,4 +1,5 @@
 todo:
+- add tests
 - encapsulate os.DirEntry objects inside a wrapper class that stores more GUI details about them (icon, font, etc)
 - add checking for 'cd'ing into files or other things
 - show current path
@@ -7,3 +8,4 @@ todo:
 - clean up/refactor docstrings
 - add wrapper function for click event handlers (like the one for key presses)
 - add support for multiple select
+- add thread that refreshes DirEntry objects (to monitor for changes in the filesystem)
