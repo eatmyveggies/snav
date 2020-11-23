@@ -1,0 +1,9 @@
+todo:
+- encapsulate os.DirEntry objects inside a wrapper class that stores more GUI details about them (icon, font, etc)
+- add checking for 'cd'ing into files or other things
+- show current path
+- add second panel
+- add a column for modified time and one for size
+- clean up/refactor docstrings
+- add wrapper function for click event handlers (like the one for key presses)
+- add support for multiple select
